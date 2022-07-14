@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1657700012 source:c:\users\windows\desktop\esame\funzioni.c
+	<stdio.h>
+	<stdlib.h>
+	"definizioni.h"
+
+1657705669 c:\users\windows\desktop\esame\definizioni.h
+
+1657705669 source:c:\users\windows\desktop\esame\main.c
+	<stdio.h>
+	<stdlib.h>
+	"definizioni.h"
+
